@@ -12,3 +12,7 @@ weight = 20
 name = "About"
 pageRef = "about/index"
 weight = 30
+
+[[footer]]
+name = "RSS Feed"
+url = "./index.xml"

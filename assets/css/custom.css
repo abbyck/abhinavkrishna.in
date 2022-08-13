@@ -1,4 +1,5 @@
-.max-w-prose {
-    max-width: 100%;
-
+@media screen and (min-width: 992px) {
+    .max-w-prose {
+        max-width: 65%;
+    }
 }

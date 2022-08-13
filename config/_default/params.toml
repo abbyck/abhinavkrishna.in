@@ -5,3 +5,5 @@ mainPosts = ["posts"]
 showAppearanceSwitcher = true
 enableSearch = true
 showScrollToTop = true
+enableCodeCopy = true
+#logo = "img/abhi-logo-inverted.png"
