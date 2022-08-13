@@ -1,0 +1,7 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+<h2 class="mt-8 text-2xl font-extrabold asdasdasd">{{ i18n "shortcode.recent_articles" | emojify }} Articles</h2>
+{{ range first 3 (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainPosts)).Pages }}
+{{ partial "article-link.html" . }}
+{{ end }}
+
+{{ end }}

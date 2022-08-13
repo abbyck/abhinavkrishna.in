@@ -1,0 +1,7 @@
+colorScheme = "slate"
+homepage.layout = "profile"
+homepage.showRecent = true
+mainPosts = ["posts"]
+showAppearanceSwitcher = true
+enableSearch = true
+showScrollToTop = true

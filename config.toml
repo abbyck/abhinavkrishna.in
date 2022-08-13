@@ -1,0 +1,5 @@
+baseURL = 'https://abhinavkrishna.in'
+languageCode = 'en'
+title = 'Abhinav Krishna C K'
+avatar = "img/avatar.jpg"
+summaryLength = 10

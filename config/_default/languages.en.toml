@@ -1,0 +1,18 @@
+title = "Abhinav Krishna C K"
+
+[author]
+name = "Abhinav Krishna C K"
+image = "img/avatar.jpg"
+headline = "Code, Internet and Freedom"
+bio = "Code, Internet and Freedom"
+links = [
+  { email = "mailto:me@abhy.me" },
+  { matrix = "https://matrix.to/#/@abbyck:matrix.org" },
+  { github = "https://github.com/abbyck" },
+  { gitlab = "https://gitlab.com/abbyck" },
+  { mastodon = "https://mas.to/@abbyck"},
+  { telegram = "https://t.me/abbyck" },
+]
+
+[share-links-active]
+  email = true

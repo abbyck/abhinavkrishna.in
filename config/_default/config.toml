@@ -1,0 +1,14 @@
+baseURL = "https://abhinavkrishna.in/"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+pluralizelisttitles = false
+
+[permalinks]
+posts = "/blog/:year/:month/:day/:slug/"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[markup.goldmark.renderer]
+unsafe= true
