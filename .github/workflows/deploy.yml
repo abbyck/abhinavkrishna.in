@@ -4,7 +4,6 @@ on: push
 jobs:
   docs:
     runs-on: ubuntu-latest
-    container: node:18
     steps:
       - name: Git Checkout
         uses: actions/checkout@v3
