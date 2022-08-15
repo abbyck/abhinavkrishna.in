@@ -1,11 +1,37 @@
 colorScheme = "slate"
-homepage.layout = "profile"
-homepage.showRecent = true
-mainPosts = ["posts"]
-footer.showAppearanceSwitcher = true
-enableSearch = true
-footer.showScrollToTop = true
-enableCodeCopy = true
+defaultAppearance = "dark"
 autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["posts"]
 logo = "img/abhi-logo-white.png"
 logoWhite = "img/abhi-logo-dark.png"
+robots = "all"
+
+[homepage]
+    layout = "profile"
+    showRecent = true
+
+[footer]
+    showAppearanceSwitcher = true
+    showScrollToTop = true
+
+[article]
+  showDate = true
+  showDateUpdated = true
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  showComments = true
