@@ -5,6 +5,8 @@ title: About
 showAuthor: false
 showDate: false
 showReadingTime: false
+showComments: false
+showTableOfContents: false
 ---
 
 ### Hi :wave:
