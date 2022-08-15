@@ -3,11 +3,9 @@ layout: page
 permalink: ""
 title: "Custom ROMs and safteynet :facepalm:"
 date: 2022-07-27
-showAuthor: true
-showDate: true
-showReadingTime: true
 showSummary: true
-showComments: true
+categories: ['rant']
+tags: ['android', 'privacy']
 ---
 
 # #Rant

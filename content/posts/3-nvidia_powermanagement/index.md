@@ -3,12 +3,9 @@ layout: page
 permalink: "nvidia"
 title: "Power management with Nvidia proprietary drivers (on Turing cards)"
 date: 2022-07-25
-showAuthor: true
-showDate: true
-showTableOfContents: true
-showReadingTime: true
 showSummary: true
-showComments: true
+categories: ['config']
+tags: ['nvidia', 'power', 'linux']
 ---
 ## Short story
 I recently got a laptop with NVIDIA Turing GPU; after my trusty Lenovo Legion Y520's body no longer wanted to be a single piece.

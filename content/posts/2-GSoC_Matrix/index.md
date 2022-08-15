@@ -3,12 +3,9 @@ layout: page
 permalink: "email-bridge-matrix-gsoc"
 title: "Bridging Emails with [m] - GSoC updates"
 date: 2021-07-19
-showAuthor: true
-showDate: true
-showReadingTime: true
-showTableOfContents: true
 showSummary: true
-showComments: true
+categories: ['projects']
+tags: ['matrix', 'gsoc', 'email']
 ---
 
 # Bridges?!

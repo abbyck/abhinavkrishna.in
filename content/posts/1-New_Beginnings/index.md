@@ -1,13 +1,10 @@
 ---
 layout: page
-permalink: "hello-world"
 title: "New Blog, first post :memo:"
 date: 2020-08-27
-showAuthor: true
-showDate: true
-showReadingTime: true
 showSummary: true
-showComments: false
+categories: ['blog']
+tags: ['firstpost', 'config']
 ---
 
 # Hello :wave:
