@@ -29,7 +29,7 @@ I just followed the wiki,
 - Set nvidia kernel module param to NVreg_DynamicPowerManagement=0x02
 - Enabled nvidia persistence service.
 
-And viola 🎉
+And voilà 🎉
 
 Got my 8-9w idle usage back and everything working as usual.
 
